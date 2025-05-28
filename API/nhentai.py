@@ -1,5 +1,5 @@
 from telethon import events
-import Helper.formating_results as format
+#import Helper.formating_results as format
 from API.nhentaiapi import Nhentaiapi as nh
 from config import bot
 
